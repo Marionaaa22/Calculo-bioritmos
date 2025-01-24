@@ -30,7 +30,7 @@ Frontend: Blade templates con soporte para CSS y JavaScript.
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
-git clone https://github.com/tu-usuario/bioritmos-calculator.git
+    git clone https://github.com/tu-usuario/bioritmos-calculator.git
 
 2. Entra en el directorio del proyecto:
 cd bioritmos-calculator
