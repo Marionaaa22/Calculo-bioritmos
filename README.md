@@ -3,7 +3,7 @@
 
 Calcula tus bioritmos emocionales, físicos e intelectuales de manera sencilla usando tu fecha de nacimiento 
 
-## Descripción
+## ✨ Descripción
 Este proyecto es una aplicación web desarrollada en PHP utilizando el framework Laravel. La aplicación permite a los usuarios calcular sus bioritmos personales con tan solo ingresar su fecha de nacimiento. Los bioritmos calculados incluyen:
 
 Emocional: Refleja el estado emocional y la sensibilidad.
@@ -11,7 +11,7 @@ Emocional: Refleja el estado emocional y la sensibilidad.
 Físico: Indica la energía corporal y la fuerza física.
 
 Intelectual: Representa el rendimiento mental y la capacidad de concentración.
-## Características
+## 🚀 Características
 Fácil de usar: Solo necesitas ingresar tu fecha de nacimiento.
 
 Visualización clara: Representación de los bioritmos mediante gráficas intuitivas.
@@ -19,7 +19,7 @@ Visualización clara: Representación de los bioritmos mediante gráficas intuit
 Cálculos precisos: Basados en modelos matemáticos de biorritmos.
 
 Interfaz moderna: Diseño responsivo y amigable para el usuario.
-##  Tecnologías utilizadas
+##  🔧 Tecnologías utilizadas
 Lenguaje: PHP
 
 Framework: Laravel
@@ -27,15 +27,15 @@ Framework: Laravel
 Frontend: Blade templates con soporte para CSS y JavaScript.
 
 
-## Instalación
+## ⚙ Instalación
 
 1. Clona este repositorio en tu máquina local:
 git clone https://github.com/tu-usuario/bioritmos-calculator.git
 
-3. Entra en el directorio del proyecto:
+2. Entra en el directorio del proyecto:
 cd bioritmos-calculator
 
-4. Instala las dependencias de Composer:
+3. Instala las dependencias de Composer:
 composer install
 
 ## Cómo funciona 
