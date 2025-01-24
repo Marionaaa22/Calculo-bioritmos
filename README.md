@@ -30,12 +30,12 @@ Frontend: Blade templates con soporte para CSS y JavaScript.
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
-    git clone https://github.com/tu-usuario/bioritmos-calculator.git
+git clone https://github.com/tu-usuario/bioritmos-calculator.git
 
-2. Entra en el directorio del proyecto:
+3. Entra en el directorio del proyecto:
 cd bioritmos-calculator
 
-3. Instala las dependencias de Composer:
+4. Instala las dependencias de Composer:
 composer install
 
 ## Cómo funciona 
