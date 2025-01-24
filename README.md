@@ -30,13 +30,17 @@ Frontend: Blade templates con soporte para CSS y JavaScript.
 ## ⚙ Instalación
 
 1. Clona este repositorio en tu máquina local:
-git clone [https://github.com/tu-usuario/bioritmos-calculator.git](https://github.com/Marionaaa22/Calculo-bioritmos.git)
-
-2. Entra en el directorio del proyecto:
-cd bioritmos-calculator
-
-3. Instala las dependencias de Composer:
+```bash
+   git clone https://github.com/tu-usuario/bioritmos-calculator.git](https://github.com/Marionaaa22/Calculo-bioritmos.git
+```
+3. Entra en el directorio del proyecto:
+```bash
+cd Calculo-bioritmos
+```
+5. Instala las dependencias de Composer:
+```bash
 composer install
+```
 
 ## Cómo funciona 
 1. Ingresa tu fecha de nacimiento en el formulario.
